@@ -8,3 +8,4 @@
 2a14:7c0:c000::/35,NL,NL-LI,Eygelshoven,6471 WV
 2a14:9e00:400::/38,NL,NL-LI,Eygelshoven,6471 WV
 2a14:9e00:c00::/38,NL,NL-LI,Eygelshoven,6471 WV
+2a14:9e00:1000::/38,NL,NL-LI,Eygelshoven,6471 WV
