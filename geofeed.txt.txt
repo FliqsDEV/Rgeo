@@ -1,6 +1,7 @@
 156.253.227.0/24,NL,NL-LI,Eygelshoven,6471 WV
 156.253.230.0/24,NL,NL-LI,Eygelshoven,6471 WV
 195.66.101.0/24,NL,NL-LI,Eygelshoven,6471 WV
+154.81.156.0/24,NL,NL-LI,Eygelshoven,6471 WV
 
 2a14:7c0:4e00::/40,NL,NL-LI,Eygelshoven,6471 WV
 2a14:7c0:5400::/40,NL,NL-LI,Eygelshoven,6471 WV
